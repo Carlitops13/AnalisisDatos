@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2021,
+    "tipo": "Sedán",
+    "color": "Blanco",
+    "motor": "1.8L",
+    "combustible": "Gasolina",
+    "precio": 23000
+  },
+  {
+    "id": 2,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2022,
+    "tipo": "Sedán",
+    "color": "Negro",
+    "motor": "2.0L",
+    "combustible": "Gasolina",
+    "precio": 25000
+  },
+  {
+    "id": 3,
+    "marca": "Ford",
+    "modelo": "Ranger",
+    "año": 2020,
+    "tipo": "Pickup",
+    "color": "Rojo",
+    "motor": "2.3L EcoBoost",
+    "combustible": "Diésel",
+    "precio": 32000
+  },
+  {
+    "id": 4,
+    "marca": "Chevrolet",
+    "modelo": "Tracker",
+    "año": 2023,
+    "tipo": "SUV",
+    "color": "Gris",
+    "motor": "1.2L Turbo",
+    "combustible": "Gasolina",
+    "precio": 28000
+  },
+  {
+    "id": 5,
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "año": 2021,
+    "tipo": "SUV",
+    "color": "Azul",
+    "motor": "2.5L",
+    "combustible": "Gasolina",
+    "precio": 31000
+  },
+  {
+    "id": 6,
+    "marca": "Kia",
+    "modelo": "Sportage",
+    "año": 2022,
+    "tipo": "SUV",
+    "color": "Plateado",
+    "motor": "2.0L",
+    "combustible": "Gasolina",
+    "precio": 29500
+  },
+  {
+    "id": 7,
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": 2023,
+    "tipo": "Sedán Eléctrico",
+    "color": "Blanco Perla",
+    "motor": "Eléctrico",
+    "combustible": "Eléctrico",
+    "precio": 42000
+  },
+  {
+    "id": 8,
+    "marca": "Nissan",
+    "modelo": "Leaf",
+    "año": 2022,
+    "tipo": "Hatchback Eléctrico",
+    "color": "Verde",
+    "motor": "Eléctrico 110 kW",
+    "combustible": "Eléctrico",
+    "precio": 31000
+  },
+  {
+    "id": 9,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "año": 2021,
+    "tipo": "SUV",
+    "color": "Rojo",
+    "motor": "2.5L",
+    "combustible": "Gasolina",
+    "precio": 33000
+  },
+  {
+    "id": 10,
+    "marca": "Volkswagen",
+    "modelo": "Amarok",
+    "año": 2020,
+    "tipo": "Pickup",
+    "color": "Negro",
+    "motor": "3.0L V6 TDI",
+    "combustible": "Diésel",
+    "precio": 37000
+  }
+]
